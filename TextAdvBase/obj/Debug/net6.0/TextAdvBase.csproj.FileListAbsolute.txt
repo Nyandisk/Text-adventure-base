@@ -1,0 +1,15 @@
+C:\Users\matti\source\repos\TextAdvBase\TextAdvBase\bin\Debug\net6.0\TextAdvBase.exe
+C:\Users\matti\source\repos\TextAdvBase\TextAdvBase\bin\Debug\net6.0\TextAdvBase.deps.json
+C:\Users\matti\source\repos\TextAdvBase\TextAdvBase\bin\Debug\net6.0\TextAdvBase.runtimeconfig.json
+C:\Users\matti\source\repos\TextAdvBase\TextAdvBase\bin\Debug\net6.0\TextAdvBase.dll
+C:\Users\matti\source\repos\TextAdvBase\TextAdvBase\bin\Debug\net6.0\TextAdvBase.pdb
+C:\Users\matti\source\repos\TextAdvBase\TextAdvBase\obj\Debug\net6.0\TextAdvBase.csproj.AssemblyReference.cache
+C:\Users\matti\source\repos\TextAdvBase\TextAdvBase\obj\Debug\net6.0\TextAdvBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matti\source\repos\TextAdvBase\TextAdvBase\obj\Debug\net6.0\TextAdvBase.AssemblyInfoInputs.cache
+C:\Users\matti\source\repos\TextAdvBase\TextAdvBase\obj\Debug\net6.0\TextAdvBase.AssemblyInfo.cs
+C:\Users\matti\source\repos\TextAdvBase\TextAdvBase\obj\Debug\net6.0\TextAdvBase.csproj.CoreCompileInputs.cache
+C:\Users\matti\source\repos\TextAdvBase\TextAdvBase\obj\Debug\net6.0\TextAdvBase.dll
+C:\Users\matti\source\repos\TextAdvBase\TextAdvBase\obj\Debug\net6.0\refint\TextAdvBase.dll
+C:\Users\matti\source\repos\TextAdvBase\TextAdvBase\obj\Debug\net6.0\TextAdvBase.pdb
+C:\Users\matti\source\repos\TextAdvBase\TextAdvBase\obj\Debug\net6.0\TextAdvBase.genruntimeconfig.cache
+C:\Users\matti\source\repos\TextAdvBase\TextAdvBase\obj\Debug\net6.0\ref\TextAdvBase.dll
