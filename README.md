@@ -13,3 +13,5 @@ Download it, and then view the example provided if you wanna do anything.
 
 somewhat working docs (dont view files, instead use packages, files seem to not work.)
 https://nyandisk.github.io/Text-adventure-base/
+
+I'm working on the github wiki however.
